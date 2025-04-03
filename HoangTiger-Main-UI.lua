@@ -313,7 +313,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "Hoang Tiger Hub 🐯 v0.09",
+    Title = "Hoang Tiger Hub 🐯 v0.1",
     SubTitle = "Blox Fruit by HuynhNgocHoang",
     TabWidth = 160,
     Theme = "Dark",
