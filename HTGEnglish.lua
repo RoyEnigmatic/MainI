@@ -3513,7 +3513,7 @@ if _G.FastAttack then
 		return v1766;
 	end)();
 end
-local v52 = v3:Window("Rubu Roblox", "");
+local v52 = v3:Window("HTG Hub", "");
 local v53 = v52:T("Tab Status", "rbxassetid://10734984606");
 local v54 = v52:T("Tab General", "rbxassetid://10723407389");
 local v55 = v52:T("Setting Other", "rbxassetid://10734950309");
